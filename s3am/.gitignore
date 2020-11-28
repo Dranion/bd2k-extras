@@ -1,0 +1,9 @@
+*.pyc
+/dist
+/build
+/src/*.egg-info
+.eggs/
+__pycache__/
+/test-report.xml
+/venv/
+/.cache
